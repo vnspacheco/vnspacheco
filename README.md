@@ -20,6 +20,7 @@
     <img src="Logos-Conhecimentos/HTML.png" alt="HTML" title="HTML" height="57px" width="57px">
     <img src="Logos-Conhecimentos/CSS.png" alt="CSS" title="CSS" height="57px" width="57px">
     <img src="Logos-Conhecimentos/JS.png" alt="JS" title="JS" height="57px" width="57px">
+    <img src="Logos-Conhecimentos/TypeScript.png" alt="TypeScript" title="TypeScript" height="57px" width="57px">
     <img src="Logos-Conhecimentos/Bootstrap.png" alt="Bootstrap" title="Bootstrap" height="57px" width="57px">
     <img src="Logos-Conhecimentos/Angular.png" alt="Angular" title="Angular" height="57px" width="57px">
   </p>
